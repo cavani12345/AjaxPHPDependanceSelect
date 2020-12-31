@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: scroll;
+}
+
+
+#navbarNavDropdown ul li a{
+    font-size: 20px;
+    color: white;
+}
+#navbarNavDropdown ul li a:hover{
+    font-size: 22px;
+    transition: all 0.3s;
+    color: white;
+    border-radius: 2px;
+    background-color: darkgrey;
+    padding-left: 40px;
+
+}
+#navbarNavDropdown ul li{
+    padding-left: 30px;
+    margin-left: 30px;
+  
+
+}
+nav{
+    background-color: black;
+}
+.mytoggler{
+    background-color: white;
+    font-size: 25px;
+}
